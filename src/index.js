@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import arrowIcon from "./down-arrow.png"
+import arrowIcon from "./assets/down-arrow.png"
 
 function DropdownMenu ({data,value,setValue}) {
 
